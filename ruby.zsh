@@ -2,3 +2,4 @@
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"
 
 alias be="bundle exec"
+alias rspec='rspec --color'
