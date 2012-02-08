@@ -1,0 +1,3 @@
+foreach fname in `ls ~/.zsh/*.zsh`; do
+  source $fname;
+done
